@@ -2317,12 +2317,6 @@
 		)
 	)
 	(junction
-		(at 166.37 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03b5af63-5cc7-4d05-b46d-804cc2f1a426")
-	)
-	(junction
 		(at 97.79 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2554,7 +2548,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 93.98) (xy 166.37 107.95)
+			(xy 166.37 85.09) (xy 166.37 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2681,16 +2675,6 @@
 			(type default)
 		)
 		(uuid "3896d523-65bc-469f-b631-e70247f3ab8f")
-	)
-	(wire
-		(pts
-			(xy 166.37 85.09) (xy 166.37 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d3fa8a8-086a-41d7-bdd5-d2c61bb9052f")
 	)
 	(wire
 		(pts
@@ -6867,72 +6851,6 @@
 			(project "effectiveRangeRelay"
 				(path "/6eab7a25-9b20-4eb7-9336-dd2042abdd78/23c81081-336d-40d7-9598-c756c6e0c615"
 					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 166.37 93.98 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f601833f-a31f-4fa5-bdf9-1e8a962a19cc")
-		(property "Reference" "#FLG01"
-			(at 168.275 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 170.18 93.9801 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 166.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 166.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d3c23fc-fe89-4f38-8a49-8fd5288b1415")
-		)
-		(instances
-			(project "effectiveRangeRelay"
-				(path "/6eab7a25-9b20-4eb7-9336-dd2042abdd78/23c81081-336d-40d7-9598-c756c6e0c615"
-					(reference "#FLG01")
 					(unit 1)
 				)
 			)

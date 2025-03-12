@@ -4218,15 +4218,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 124.46 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "661e59bd-4d80-4878-9558-9f99e9417275")
 		)
@@ -4451,15 +4442,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/good-ark-semiconductor/GSFF3134/24613092"
-			(at 172.72 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 172.72 102.87 0)
 			(effects
 				(font
@@ -5173,15 +5155,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 124.46 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2720a11b-72d8-4d49-a168-1e83071444b3")
 		)
@@ -5346,15 +5319,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 208.28 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2d1f1d23-a677-4682-8b05-16eaaaee86e5")
 		)
@@ -5442,15 +5406,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERJ-PA3J105V/5035973"
-			(at 147.32 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 147.32 113.03 0)
 			(effects
 				(font
@@ -5667,15 +5622,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 35.56 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 35.56 185.42 0)
 			(effects
 				(font
@@ -5910,15 +5856,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 16.51 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "effectiveRangeRelay"
 				(path "/6eab7a25-9b20-4eb7-9336-dd2042abdd78"
@@ -5975,15 +5912,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 36.83 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 36.83 194.31 0)
 			(effects
 				(font
@@ -6114,15 +6042,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 16.51 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 16.51 194.31 0)
 			(effects
 				(font
@@ -6371,15 +6290,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 207.01 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3b0f0261-6243-4a83-ba16-4d465475510a")
 		)
@@ -6607,15 +6517,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/cit-relay-and-switch/J107F1CS125VDC-36/14002162"
-			(at 195.58 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 195.58 91.44 0)
 			(effects
 				(font

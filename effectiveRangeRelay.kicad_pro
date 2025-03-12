@@ -655,12 +655,6 @@
         },
         {
           "group_by": false,
-          "label": "Manufaturer",
-          "name": "Manufaturer",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Sim.Device",
           "name": "Sim.Device",
           "show": false

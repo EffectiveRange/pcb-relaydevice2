@@ -3894,7 +3894,7 @@
 	(footprint "NetTie:NetTie-2_SMD_Pad0.5mm"
 		(layer "F.Cu")
 		(uuid "4b8c3a5c-f7c5-463a-ac5c-c6ffd95729f9")
-		(at 121.7662 121.7266 -90)
+		(at 122.821 121.631 -90)
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT2"
@@ -9978,7 +9978,7 @@
 	(footprint "NetTie:NetTie-2_SMD_Pad0.5mm"
 		(layer "F.Cu")
 		(uuid "ca8a0a27-6d97-478a-b6a4-4110c7e70de8")
-		(at 120.9534 121.7346 -90)
+		(at 121.131 121.591 -90)
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT1"

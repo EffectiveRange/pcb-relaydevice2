@@ -5065,7 +5065,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM155R71E104KE14J"
+		(property "MPN" "GRM155R61H474ME11D"
 			(at 173.99 72.39 0)
 			(effects
 				(font
@@ -5083,7 +5083,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/murata-electronics/GRM188R72A104KA35D/702549"
+		(property "SupplierLink" "https://www.digikey.com/en/products/detail/murata-electronics/GRM155R61H474ME11D/10694674"
 			(at 173.99 72.39 0)
 			(effects
 				(font
